@@ -1,21 +1,3 @@
-## [PureMVC](http://puremvc.github.com/) [PHP](https://github.com/PureMVC/puremvc-php-multicore-framework/wiki) Utility: State Machine
-This utility provides a simple yet effective Finite State Machine implementation, which allows the definition of discrete states, and the valid transitions to other states available from any given state, and the actions which trigger the transitions. A mechanism is provided for defining the entire state machine in XML and having a fully populated StateMachine injected into the PureMVC app. 
-
-Currently, only a MultiCore version is included.
-
-* [Discussion](http://forums.puremvc.org/index.php?topic=2061.0)
-* [State Machine Overview Presentation](http://puremvc.tv/#P003/)
-
-## API Docs
-* [MultiCore Version](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/docs/PHP/Utility_PHP_StateMachine/doc-standard/&desc=PureMVC%20MultiCore%20Docs%20PHP%20Utility:%20State%20Machine)
-
-## Status
-Production - [Version 1.0](https://github.com/PureMVC/puremvc-php-util-statemachine/blob/master/VERSION)
-
-## Platforms / Technologies
-* [PHP](http://en.wikipedia.org/wiki/PHP)
-
-## License
 * PureMVC PHP Utility - State Machine (Ported) - Copyright © 2010 Michel Chouinard
 * PureMVC - Copyright © 2006-2012 Futurescale, Inc.
 * All rights reserved.
