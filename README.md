@@ -7,7 +7,7 @@ Currently, only a MultiCore version is included.
 * [State Machine Overview Presentation](http://puremvc.tv/#P003/)
 
 ## API Docs
-* [MultiCore Version](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/docs/PHP/Utility_PHP_StateMachine/doc-standard/&desc=PureMVC%20MultiCore%20Docs%20PHP%20Utility:%20State%20Machine)
+* [MultiCore Version](http://puremvc.org/pages/docs/PHP/Utility_PHP_StateMachine/doc-standard/)
 
 ## Status
 Production - [Version 1.0](https://github.com/PureMVC/puremvc-php-util-statemachine/blob/master/VERSION)
